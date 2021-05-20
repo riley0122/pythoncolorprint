@@ -52,4 +52,4 @@ and before you ask no you cant have multiple colors at the same time
 you can change all the names used for more information [open main.py](main.py)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
