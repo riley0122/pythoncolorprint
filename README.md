@@ -45,6 +45,9 @@ custom
 classname.functionname("WARNING: 1 + 1 isn't 3", classname.Colorname)
 ```
 to change colors when it is customized you do it the same as above but then with your custom names
+
+
+and before you ask no you cant have multiple colors at the same time
 ## Customize
 you can change all the names used for more information [open main.py](main.py)
 
