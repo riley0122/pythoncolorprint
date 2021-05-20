@@ -23,12 +23,28 @@ class colors:
 ## Usage
 default
 ```python
-classname.printc("WARNING: 1 + 1 isn't 3", colors.WARNING)
+colors.printc("WARNING: 1 + 1 isn't 3", colors.WARNING)
+```
+
+to change the color change colors.WARNNG to on of following
+```
+colors.HEADER
+colors.OKBLUE
+colors.OKCYAN
+colors.OKGREEN
+colors.WARNING
+colors.FAIL
+```
+and as a bonus this also includdes bold and underlined text
+```
+colors.BOLD
+colors.UNDERLINE
 ```
 custom
 ```python
 classname.functionname("WARNING: 1 + 1 isn't 3", classname.Colorname)
 ```
+to change colors when it is customized you do it the same as above but then with your custom names
 ## Customize
 you can change all the names used for more information [open main.py](main.py)
 
