@@ -1,3 +1,5 @@
+⚠️ there is probably an easier way to do this ⚠️
+
 # pythoncolorprint
 
 this is a simple script that makes it easy to print in color
